@@ -10,3 +10,63 @@ Made by: @codelife / @programmer6
 **Respository link:**  https://github.com/Programer6/Delta-Forge/
 
 
+Frame Build:
+- Assembled triangle frame using 2020
+- <img width="553" height="644" alt="Screenshot 2025-07-17 at 9 06 36 PM" src="https://github.com/user-attachments/assets/b3be243f-86a7-4be0-b23a-714ff24cc943" />
+
+Bottom Build Plate:
+<img width="885" height="626" alt="Screenshot 2025-07-17 at 9 07 24 PM" src="https://github.com/user-attachments/assets/1a3eea47-3816-483e-8938-b5039b91b752" />
+
+Assembled together:
+<img width="586" height="584" alt="Screenshot 2025-07-17 at 9 08 10 PM" src="https://github.com/user-attachments/assets/6f36bd16-4f9c-4842-ad0e-6eb5b6ed5436" />
+
+
+Extrusions holder:
+
+
+<img width="996" height="655" alt="Screenshot 2025-07-17 at 9 09 31 PM" src="https://github.com/user-attachments/assets/104053d5-38f3-4605-9ecd-98b87d23d0c9" />
+<img width="512" height="566" alt="Screenshot 2025-07-17 at 9 10 03 PM" src="https://github.com/user-attachments/assets/ecb5a765-ced8-41ea-8cf9-27fbc1ec4ecf" />
+<img width="538" height="521" alt="Screenshot 2025-07-17 at 9 10 56 PM" src="https://github.com/user-attachments/assets/56935b09-8f7d-471f-be4d-e3a011e58f58" />
+
+
+Assembling
+<img width="523" height="597" alt="Screenshot 2025-07-17 at 9 11 29 PM" src="https://github.com/user-attachments/assets/9b69ef16-4589-4a5f-8bce-b5c387048f05" />
+
+rop
+<img width="485" height="346" alt="Screenshot 2025-07-17 at 9 12 50 PM" src="https://github.com/user-attachments/assets/2d32cf1f-8bab-43eb-8c69-c3e36374f977" />
+
+
+grill design:
+<img width="765" height="683" alt="Screenshot 2025-07-17 at 9 13 45 PM" src="https://github.com/user-attachments/assets/cf419ee3-4299-4bcf-b346-99d16c6d307d" />
+<img width="828" height="316" alt="Screenshot 2025-07-17 at 9 14 04 PM" src="https://github.com/user-attachments/assets/9f4b88a5-4b5d-44e8-81ea-74e3ca228a50" />
+
+
+Spool holder
+<img width="457" height="490" alt="Screenshot 2025-07-17 at 9 15 18 PM" src="https://github.com/user-attachments/assets/f08d1d8b-4cc8-4732-864f-3951860a6347" />
+<img width="387" height="355" alt="Screenshot 2025-07-17 at 9 15 26 PM" src="https://github.com/user-attachments/assets/94b4d6f8-0da0-4a1e-b97e-778547cd1fc2" />
+
+ELECTRONICS HOLDER
+<img width="718" height="307" alt="Screenshot 2025-07-17 at 9 17 00 PM" src="https://github.com/user-attachments/assets/0e090568-a571-4d54-abc8-a0fbaaab64f6" />
+<img width="618" height="339" alt="Screenshot 2025-07-17 at 9 17 47 PM" src="https://github.com/user-attachments/assets/f7a73df9-f967-4766-99cf-e2c15cb20c9c" />
+
+
+DELTA ARMS
+<img width="455" height="647" alt="Screenshot 2025-07-17 at 9 18 19 PM" src="https://github.com/user-attachments/assets/3d90d9f1-f06e-49be-881d-7bb12098a167" />
+
+
+DESIN
+
+<img width="774" height="631" alt="Screenshot 2025-07-17 at 9 19 30 PM" src="https://github.com/user-attachments/assets/f92c2a5a-55b0-48ca-b085-17209b0358f3" />
+
+
+PUTTING IT TOGETHER
+<img width="721" height="684" alt="Screenshot 2025-07-17 at 9 20 14 PM" src="https://github.com/user-attachments/assets/495536b3-03a8-47f1-bb74-acbbb9692d31" />
+
+
+
+https://github.com/user-attachments/assets/61bd661a-ea38-4a6c-9b39-ed1613a4cac2
+
+
+https://github.com/user-attachments/assets/fd6eddad-ef06-40b8-ad82-d1f1cbdf5e5e
+
+
