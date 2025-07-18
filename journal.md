@@ -93,20 +93,32 @@ Nothing crezy download the join for the internet and made the main body of the D
 
 <img width="455" height="647" alt="Screenshot 2025-07-17 at 9 18 19 PM" src="https://github.com/user-attachments/assets/3d90d9f1-f06e-49be-881d-7bb12098a167" />
 
-
-DESIGN
+## Extrusion cover! (3.5 hours)
+Cool desgn simple desingn to hide the Z axis extrusion with the 3D printed part & to hopefully use to add clear arylic (as a later upgrade) to cover it to make it look overal polished!
 
 <img width="774" height="631" alt="Screenshot 2025-07-17 at 9 19 30 PM" src="https://github.com/user-attachments/assets/f92c2a5a-55b0-48ca-b085-17209b0358f3" />
 
 
-PUTTING IT TOGETHER
+## PUTTING IT TOGETHER + Adding color! (5 Hours )
+Pretty self explanatory 
 <img width="721" height="684" alt="Screenshot 2025-07-17 at 9 20 14 PM" src="https://github.com/user-attachments/assets/495536b3-03a8-47f1-bb74-acbbb9692d31" />
 
+## Written work: (5 hour)
 
+Sourcing part making the bom, find the parts of aliexpress, writing the joural & the readme which you are reading right now!!
+
+
+
+## Renderings: 
 
 https://github.com/user-attachments/assets/61bd661a-ea38-4a6c-9b39-ed1613a4cac2
 
 
 https://github.com/user-attachments/assets/fd6eddad-ef06-40b8-ad82-d1f1cbdf5e5e
+
+
+Hoped you liked reviewing my project!
+
+
 
 
