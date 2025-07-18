@@ -55,10 +55,15 @@ Measurment gome crazy aas you can see while juggling multiple thing but worth it
 <img width="538" height="521" alt="Screenshot 2025-07-17 at 9 10 56 PM" src="https://github.com/user-attachments/assets/56935b09-8f7d-471f-be4d-e3a011e58f58" />
 
 
-Assembling
+##Assembling (3 hours)
+Adding the extrusion to its correct places!!
+Bottom & top extrusion holder images:
+
+
 <img width="523" height="597" alt="Screenshot 2025-07-17 at 9 11 29 PM" src="https://github.com/user-attachments/assets/9b69ef16-4589-4a5f-8bce-b5c387048f05" />
 
-rop
+
+
 <img width="485" height="346" alt="Screenshot 2025-07-17 at 9 12 50 PM" src="https://github.com/user-attachments/assets/2d32cf1f-8bab-43eb-8c69-c3e36374f977" />
 
 
