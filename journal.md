@@ -42,9 +42,14 @@ Measurment gome crazy aas you can see while juggling multiple thing but worth it
 
 <img width="996" height="655" alt="Screenshot 2025-07-17 at 9 09 31 PM" src="https://github.com/user-attachments/assets/104053d5-38f3-4605-9ecd-98b87d23d0c9" />
 
-### How it looks after extruded:
+## How it looks after extruded:
+
+### Part 1: This was the first verison of the extrusion holder designed kept for the top part of the 3D pritner
 
 <img width="512" height="566" alt="Screenshot 2025-07-17 at 9 10 03 PM" src="https://github.com/user-attachments/assets/ecb5a765-ced8-41ea-8cf9-27fbc1ec4ecf" />
+
+### Part 1: This was the second verison of the extrusion holder basically the same but the difference being that it allow the nema 17 extrusion to be srewed in the bottom
+
 <img width="538" height="521" alt="Screenshot 2025-07-17 at 9 10 56 PM" src="https://github.com/user-attachments/assets/56935b09-8f7d-471f-be4d-e3a011e58f58" />
 
 
