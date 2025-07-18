@@ -103,6 +103,15 @@ Well in simple words I am addicted to 3D printers design & since I don't own oen
 
 ## End Cost Estimate
 
+---
+
+
+<p align="center">
+  <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/0bbcca68ffa3845300bb76940f8ad91fd53d2d68_06-30-2025-1618.png" alt="A badge of a Cerberus and a raccoon laughing together, with the text 'HIGHWAY' and 'HACK CLUB' beside them." />
+</p>
+
+---
+
 ## 📄 License
 
 This project is licensed under the **MIT License**.  
