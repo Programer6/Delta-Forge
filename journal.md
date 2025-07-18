@@ -24,11 +24,17 @@ First, I designed the main triangular frame using 2020 aluminum extrusions. This
 At the same time, I designed the bottom build plate. I went with a hexagonal shape which matched delta's geometry & was inspired by the Delta Flyer keep the footprint small and stable. You can see the CAD screenshot where I sketched out the 120mm circular build area to make sure the hotend would have full access and everything would be centered correctly.
 <img width="885" height="626" alt="Screenshot 2025-07-17 at 9 07 24 PM" src="https://github.com/user-attachments/assets/1a3eea47-3816-483e-8938-b5039b91b752" />
 
-Assembled together:
+
+
+## Conner Support 3 extrusions Holder(7-8+h):
+
+Atempt one one making this completely failed as you can see in the picture as this one part need ot connect to two of the bottom extrusions + the same time provide support to the top extrusion! + have the write spacing in between for the allowing the belt controled by the nema 17 motors below!! so measurement not only needed to be precise considering this is a important part! WHICH I COMPLELY FAILED DOING IN THE FIRST ATTEMPT! :(
+
+### Atempt 1( almost 2 hours wasted):
 <img width="586" height="584" alt="Screenshot 2025-07-17 at 9 08 10 PM" src="https://github.com/user-attachments/assets/6f36bd16-4f9c-4842-ad0e-6eb5b6ed5436" />
 
-
-Extrusions holder:
+### Atempt 2 
+Measurment gome crazy aas you can see while juggling multiple thing:
 <img width="558" height="720" alt="image" src="https://github.com/user-attachments/assets/92feea88-4dbc-4a15-b630-af6748d1b826" />
 
 
