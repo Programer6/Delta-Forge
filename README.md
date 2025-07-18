@@ -21,6 +21,86 @@ Well in simple words I am addicted to 3D printers design & since I don't own oen
 ## Full Bill of Materials ( - see cost breakdown in csv)
 
 
+### Frame
+
+| Qty | Item                        | Notes            |
+| --- | --------------------------- | ---------------- |
+| 3   | 350mm T-Slot 2020 Extrusion | Vertical columns |
+| 48  | M5 x 10mm Screws            |                  |
+| 48  | M5 T-nuts                   | For extrusion    |
+| 3   | 300mm MGN9C Linear Rails    | For carriages    |
+
+---
+
+### Motion
+
+| Qty | Item                        | Notes               |
+| --- | --------------------------- | ------------------- |
+| 1   | POWGE GT2 6mm Belt (4m)     | Belts               |
+| 3   | POWGE 20T Pulley (5mm Bore) | Stepper pulleys     |
+| 3   | POWGE 20T Toothed Idler     |                     |
+| 1   | F695 Bearings (Pack of 10)  | Raindew recommended |
+| 4   | Nema17 Stepper Motors       | High torque         |
+
+---
+
+### Hardware
+
+| Qty | Item                               | Notes                                   |
+| --- | ---------------------------------- | --------------------------------------- |
+| 40  | M3 x 6mm                           | For Panels                              |
+| 13  | M3 x 8mm                           | For Effector, Idler Slides, Belt Clamps |
+| 2   | M3 x 12mm                          | For 3010 Fan                            |
+| 3   | M3 x 16mm (button head)            | For bed                                 |
+| 12  | M3 x 20mm                          | For effector arms and 5015 fan          |
+| 12  | M3 x 25mm                          | For motor mounts                        |
+| 3   | M3 x 30mm                          | For belt tensioners                     |
+| 3   | M5 x 16mm (button head)            | For idlers                              |
+| 1   | M3 Heatsets (300 pcs, D5.0 x L4.0) | Always good to have                     |
+| 1   | 1000mm CF Rod (5mm OD, 3mm ID)     | Cut to 105mm                            |
+| 2   | 3mm x 25mm Dowel Pins              | For glue jig                            |
+| 1   | 3mm Threaded Rod                   | Cut into ~30mm sections                 |
+| 12  | MP Jet Ball Joints (2 packs)       | High-quality link joints                |
+| 6   | 6mm x 3mm Magnets                  |                                         |
+| 18  | M3 T-nuts                          | For linear rail mounting                |
+| 4   | Feet                               | Printer feet                            |
+
+---
+
+### Extruder & Hotend
+
+| Qty | Item                | Notes             |
+| --- | ------------------- | ----------------- |
+| 1   | BMG Clone Dual Gear | Extruder          |
+| 1   | TL TR6 Hotend       | High-temp capable |
+
+---
+
+### Bed
+
+| Qty | Item                     | Notes                         |
+| --- | ------------------------ | ----------------------------- |
+| 1   | 120mm 24V Heater         | Heating element               |
+| 1   | 120mm PEI Sheet          | Build surface (optional)      |
+| 1   | 150mm x 4mm Aluminum Bed | Used with BuildTak in project |
+
+---
+
+### Electronics
+
+| Qty | Item                        | Notes                     |
+| --- | --------------------------- | ------------------------- |
+| 1   | 24V 8A/10A AC Adapter       | Power source              |
+| 1   | Optical Endstop             | Delta homing              |
+| 1   | Manta E3EZ + EZ2209 Drivers | Main control board        |
+| 1   | BTT CB1 + Heatsink          | Compute module            |
+| 1   | 3010 24V Fan (GDSTIME)      | Hotend cooling            |
+| 1   | 4010 12V Fan (CB1 cooling)  | Quiet fan via 5V TFT port |
+| 1   | 5015 24V Fan (GDSTIME)      | Layer cooling             |
+| 1   | TL Nozzle Probe (optional)  | Auto bed leveling         |
+
+
+
 ## End Cost Estimate
 
 ## 📄 License
