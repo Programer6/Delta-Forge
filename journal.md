@@ -10,16 +10,18 @@ Made by: @codelife / @programmer6
 **Respository link:**  https://github.com/Programer6/Delta-Forge/
 
 
-## Frame Build (2-3 Hours ):
+## Frame Build (2 Hours):
 
 I kicked things off with core structure of the printer. Since it's a delta, getting the geometry right from the start was super important.
 First, I designed the main triangular frame using 2020 aluminum extrusions. This forms the three vertical towers and the triangular base and top sections & made sure all of the extrsuon where in the correct 60-degree angles.
 
 
 - Assembled triangle frame using 2020
-- <img width="553" height="644" alt="Screenshot 2025-07-17 at 9 06 36 PM" src="https://github.com/user-attachments/assets/b3be243f-86a7-4be0-b23a-714ff24cc943" />
+<img width="553" height="644" alt="Screenshot 2025-07-17 at 9 06 36 PM" src="https://github.com/user-attachments/assets/b3be243f-86a7-4be0-b23a-714ff24cc943" />
 
-Bottom Build Plate:
+## Bottom Build Plate (3h):
+
+At the same time, I designed the bottom build plate. I went with a hexagonal shape which matched delta's geometry & was inspired by the Delta Flyer keep the footprint small and stable. You can see the CAD screenshot where I sketched out the 120mm circular build area to make sure the hotend would have full access and everything would be centered correctly.
 <img width="885" height="626" alt="Screenshot 2025-07-17 at 9 07 24 PM" src="https://github.com/user-attachments/assets/1a3eea47-3816-483e-8938-b5039b91b752" />
 
 Assembled together:
