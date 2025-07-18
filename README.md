@@ -11,10 +11,10 @@ https://github.com/user-attachments/assets/fd6eddad-ef06-40b8-ad82-d1f1cbdf5e5e
 
 ## Project Goals
 The vision for the Delta-Forge was to create a delta printer that excels in several key areas:
-- **Performance:** Utilize a rigid all-metal frame and a linear rail motion system to achieve high-speed while keeping high-quality prints.
-- **Compact Footprint:** Design a printer with a small-form-factor that doesn't sacrifice build volume unnecessarily. Ideal for a desk or a small workshop.
-- **Aesthetics:** Draw inspiration from sleek sci-fi designs, moving away from a purely utilitarian look. I want to make it something I proud to display!
-- **Accessibility:** Use commonly available parts and components in the 3D printing community to make sourcing straightforward.
+- Utilize a rigid all-metal frame and a linear rail motion system to achieve high-speed while keeping high-quality prints.
+- Design a printer with a small-form-factor that doesn't sacrifice build volume unnecessarily. Ideal for a desk or a small workshop.
+- Draw inspiration from sleek sci-fi designs, moving away from a purely utilitarian look. I want to make it something I proud to display!
+- Use commonly available parts and components in the 3D printing community to make sourcing straightforward.
 
 ## Why I designed this 3D printer:
 Well in simple words I am addicted to 3D printers design & since I don't own oen I want to get my hands on every type of 3D printer that is out there! 
