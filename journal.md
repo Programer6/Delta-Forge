@@ -55,9 +55,9 @@ Measurment gome crazy aas you can see while juggling multiple thing but worth it
 <img width="538" height="521" alt="Screenshot 2025-07-17 at 9 10 56 PM" src="https://github.com/user-attachments/assets/56935b09-8f7d-471f-be4d-e3a011e58f58" />
 
 
-##Assembling (3 hours)
-Adding the extrusion to its correct places!!
-Bottom & top extrusion holder images:
+## Assembling (3 hours)
+- Adding the extrusion to its correct places!!
+- Bottom & top extrusion holder images:
 
 
 <img width="523" height="597" alt="Screenshot 2025-07-17 at 9 11 29 PM" src="https://github.com/user-attachments/assets/9b69ef16-4589-4a5f-8bce-b5c387048f05" />
@@ -67,7 +67,10 @@ Bottom & top extrusion holder images:
 <img width="485" height="346" alt="Screenshot 2025-07-17 at 9 12 50 PM" src="https://github.com/user-attachments/assets/2d32cf1f-8bab-43eb-8c69-c3e36374f977" />
 
 
-grill design:
+## Grill design:
+
+Since I got one of the most important and time consuming part of the 3d Printer done I moved on to the making of a grill design to put at the buttom part of my 3D printer by screwing it together to the extrusions this is mainly for design purpose to make the 3d pritner to look overally more pretty and to hind the Nema 17 stepper motors which are hiding at the bottom of the 3d printer. 
+
 <img width="765" height="683" alt="Screenshot 2025-07-17 at 9 13 45 PM" src="https://github.com/user-attachments/assets/cf419ee3-4299-4bcf-b346-99d16c6d307d" />
 <img width="828" height="316" alt="Screenshot 2025-07-17 at 9 14 04 PM" src="https://github.com/user-attachments/assets/9f4b88a5-4b5d-44e8-81ea-74e3ca228a50" />
 
