@@ -2,7 +2,7 @@
 _Made by: @codelife / @programmer6_
 
 | | |
-|---|---|
+|-------------------|-------------------|
 | **Project Status** | Awaiting funding |
 | **Total Time** | 60+ HOURS |
 | **CAD Link** | [https://a360.co/3TjGkbB](https://a360.co/3TjGkbB) |
