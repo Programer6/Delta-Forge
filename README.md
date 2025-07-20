@@ -110,7 +110,7 @@ Well in simple words I am addicted to 3D printers design & since I don't own oen
 
 ## End Cost Estimate
 
-- $360  predicted to be 400$ but it is lower due to AliExpress about 350$ discount coupon & also not that some parts, such as screw, are ordered in bulk as not available in single quantities!
+- $360 - predicted to be 400 dollars but it is lower due to AliExpress about 350$ discount coupon & also not that some parts, such as screw, are ordered in bulk as not available in single quantities!
 - 
 ---
 
