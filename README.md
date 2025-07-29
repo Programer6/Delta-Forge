@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/fd6eddad-ef06-40b8-ad82-d1f1cbdf5e5e
 
 
 ## Project Goals
-The vision for the Delta-Forge was to create a delta printer that excels in several key areas:
+The vision for the Delta-Forge was to:
 - Rigid all-metal frame and a linear rail motion system to achieve high-speed & keeping high quality prints.
 - A small form factor that doesn't sacrifice build volume unnecessarily. Ideal for a desk or a small workshop.
 - Draw inspiration from sleek sci-fi designs, moving away from a purely utilitarian look. I want to make it something I proud to display!
