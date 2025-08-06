@@ -3,7 +3,7 @@
 **Delta Forge** is a compact, high-performance delta style 3D printer inspired by the design of the delta flyer.
 
 <p align="center">
-  <img width="527" height="598" alt="Screenshot 2025-07-18 at 6 33 02 AM" src="https://github.com/user-attachments/assets/5689b632-0528-40cd-9ccb-254fd474ca9c" />
+  <img width="481" height="576" alt="Screenshot 2025-08-06 at 1 07 43 PM" src="https://github.com/user-attachments/assets/94d281a1-5d5a-4a5f-8b8b-03184e3969c6" />
 </p>
 
 https://github.com/user-attachments/assets/fd6eddad-ef06-40b8-ad82-d1f1cbdf5e5e
